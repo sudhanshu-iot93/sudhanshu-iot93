@@ -1,16 +1,14 @@
-<!-- Header / Typing Animation Banner -->
+<!-- Glossy Animated Waving Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Sudhanshu+Maharathi+%F0%9F%91%8B;IoT+%26+Embedded+Systems+Engineer+%E2%9A%99%EF%B8%8F;Full-Stack+Web+%26+Flutter+Developer+%F0%9F%9A%80;Building+Scalable+Real-World+Solutions+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sudhanshu%20Maharathi&fontSize=48&animation=fadeIn&fontAlignY=38&desc=IoT%20%7C%20Embedded%20Systems%20%7C%20Full-Stack%20Developer&descAlignY=62&descAlign=50" alt="Glossy Header Banner" width="100%"/>
 </div>
 
----
-
+<!-- Typing Animation Sub-Banner -->
 <div align="center">
-  <p>
-    <strong>Computer Science enthusiast specializing in IoT, Embedded Systems & Software Development.</strong><br/>
-    Passionate about microcontrollers, sensors, cloud integration, and building high-performance cross-platform apps.
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Sudhanshu+%F0%9F%91%8B;Passionate+about+Microcontrollers+%26+Sensors+%E2%9A%99%EF%B8%8F;Building+Scalable+Flutter+%26+Next.js+Apps+%F0%9F%9A%80;Creating+Real-World+Cloud+Solutions+%F0%9F%8C%90" alt="Typing SVG" />
 </div>
+
+<br/>
 
 <!-- Social & Contact Badges -->
 <div align="center">
@@ -46,13 +44,13 @@
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <h3><strong>Core & Languages</strong></h3>
+  <h3><strong>Core Languages & Hardware</strong></h3>
   <img src="https://skillicons.dev/icons?i=dart,py,ts,js,c,cpp,html,css&theme=dark" alt="Languages Skills" />
   
   <h3><strong>Frameworks & Libraries</strong></h3>
   <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,express,nodejs,vite&theme=dark" alt="Frameworks Skills" />
   
-  <h3><strong>Databases, Cloud & Hardware</strong></h3>
+  <h3><strong>Databases, Cloud & DevOps Tools</strong></h3>
   <img src="https://skillicons.dev/icons?i=firebase,mongodb,prisma,git,github,vscode,postman&theme=dark" alt="Cloud and Tools" />
 </div>
 
@@ -65,27 +63,33 @@
 | **[NovaLearn](https://github.com/sudhanshu-iot93/NovaLearn)** | All-in-one Flutter EdTech platform connecting students, teachers, and parents with Gemini AI tutoring, real-time whiteboards & QR attendance. | `Flutter` `Dart` `Firebase` `Gemini AI` |
 | **[HemoNova](https://github.com/sudhanshu-iot93/HemoNova)** | Real-time blood donation & emergency response platform connecting donors, hospitals, and patients via live tracking. | `Flutter` `Firebase` `Real-time` |
 | **[Rural Water Monitoring](https://github.com/sudhanshu-iot93/rural-water-monitoring-system)** | High-fidelity IoT telemetry client and edge-computing dashboard featuring AI rainwater prediction & bacterial risk profiling. | `IoT` `Flutter` `Firebase` `Sensors` |
-| **[Smart Campus AI System](https://github.com/sudhanshu-iot93/Smart-Campus-AI-System)** | AI-powered security monitoring vehicle entry/exit, number plate recognition (ANPR), facial attendance, and real-time alerts. | `TypeScript` `Computer Vision` `AI` |
+| **[Smart Campus AI System](https://github.com/sudhanshu-iot93/Smart-Campus-AI-System)** | AI-powered security monitoring vehicle entry/exit, automatic number plate recognition (ANPR), facial attendance, and real-time alerts. | `TypeScript` `Computer Vision` `AI` |
 | **[TaskMaster Pro](https://github.com/sudhanshu-iot93/Task-Management-Application)** | Full-stack task management web app featuring live WebSocket syncing, fluid drag-and-drop, and glassmorphic UI. | `React` `Node.js` `Prisma` `WebSockets` |
 | **[Lab Assistant Tool](https://github.com/sudhanshu-iot93/lab-assistant-tool)** | Powerful LAN-based computer lab management system with real-time telemetry and native Windows student clients. | `Python` `WebSockets` `Native` |
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Dynamic GitHub Activity & Glossy Analytics
 
+<!-- Glossy Animated Activity Area Graph -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu-iot93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6" alt="Sudhanshu's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu-iot93&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4" alt="Sudhanshu's GitHub Streak" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshu-iot93&bg_color=0D1117&color=06B6D4&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Sudhanshu's Activity Graph" width="95%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu-iot93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu-iot93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E14&title_color=06B6D4&icon_color=8B5CF6&border_radius=15" alt="Sudhanshu's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu-iot93&theme=tokyonight&hide_border=true&background=0A0E14&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4&border_radius=15" alt="Sudhanshu's GitHub Streak" width="48%"/>
 </div>
 
----
+<br/>
 
 <div align="center">
-  <p>⭐️ From <a href="https://github.com/sudhanshu-iot93">sudhanshu-iot93</a></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu-iot93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E14&title_color=06B6D4&border_radius=15" alt="Top Languages" width="60%"/>
+</div>
+
+<!-- Glossy Waving Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Glossy Footer Wave" width="100%"/>
 </div>
