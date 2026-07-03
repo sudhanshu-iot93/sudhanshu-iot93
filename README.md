@@ -113,6 +113,10 @@ const sudhanshu = {
 
 ## 💼 What I Do
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="480" alt="Building & Engineering Real-World Systems" />
+
+<br/>
+
 - 📡 **IoT & Embedded Systems:** Designing high-fidelity sensor telemetry, microcontroller edge logic & wireless communication
 - 📱 **Cross-Platform Mobile Apps:** Building responsive, AI-integrated Flutter applications with Firebase & real-time sync
 - 🏗️ **Full-Stack Web Platforms:** Engineering scalable, modern web applications with Next.js, React, Node.js & MongoDB
