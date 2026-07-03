@@ -45,6 +45,130 @@ const sudhanshu = {
 
 ---
 
+## 🏆 Honors, Awards & Live Engineering Showcase
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>🥇 Innovision 2026 Award Presentation</b><br/>
+        <sub>World Intellectual Property Day (26th April 2026)</sub><br/><br/>
+        <img src="assets/innovision_award_2026.jpg" width="100%" alt="Innovision 2026 Award Winner" style="border-radius: 12px;" />
+      </td>
+      <td align="center" width="50%">
+        <b>⚡ Live Cloud & Edge Deployment</b><br/>
+        <sub>Python 3.13 Firebase Cloud Functions & Antigravity IDE</sub><br/><br/>
+        <img src="assets/antigravity_cloud_deployment.jpg" width="100%" alt="Live Antigravity Cloud Deployment" style="border-radius: 12px;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<details>
+<summary><b>✨ Interactive 3D Glassmorphic Photo Showcase (Live Translucent Animation Code)</b></summary>
+
+<br/>
+
+> *Run this HTML5 file in your browser to experience a true 3D translucent glassmorphism gallery with glowing neon hover transitions!*
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sudhanshu's Glassmorphic Showcase</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: radial-gradient(circle at 10% 20%, #06B6D4 0%, #1a1a2e 40%, #0f0c29 100%);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      overflow-x: hidden;
+      padding: 40px;
+    }
+    .gallery-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+      gap: 35px;
+      max-width: 1200px;
+      width: 100%;
+    }
+    .glass-card {
+      position: relative;
+      background: rgba(255, 255, 255, 0.07);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 24px;
+      padding: 24px;
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+      transition: all 0.5s cubic-bezier(0.23, 1, 0.320, 1);
+      overflow: hidden;
+    }
+    .glass-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: -100%; width: 100%; height: 100%;
+      background: linear-gradient(90deg, transparent, rgba(255,255,255,0.15), transparent);
+      transition: 0.6s;
+    }
+    .glass-card:hover {
+      transform: translateY(-12px) rotateX(4deg) rotateY(-4deg);
+      border-color: #06B6D4;
+      box-shadow: 0 30px 60px rgba(6, 182, 212, 0.35);
+    }
+    .glass-card:hover::before { left: 100%; }
+    .card-img {
+      width: 100%;
+      height: 240px;
+      object-fit: cover;
+      border-radius: 16px;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      margin-bottom: 18px;
+    }
+    .badge {
+      display: inline-block;
+      padding: 6px 14px;
+      background: linear-gradient(135deg, #06B6D4, #3B82F6);
+      color: white;
+      border-radius: 30px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+      box-shadow: 0 4px 15px rgba(6, 182, 212, 0.4);
+    }
+    h3 { color: #ffffff; font-size: 1.3rem; margin-bottom: 8px; }
+    p { color: rgba(255, 255, 255, 0.75); font-size: 0.92rem; line-height: 1.5; }
+  </style>
+</head>
+<body>
+  <div class="gallery-container">
+    <div class="glass-card">
+      <span class="badge">Innovation Award</span>
+      <img class="card-img" src="assets/innovision_award_2026.jpg" alt="Innovision Award">
+      <h3>Innovision 2026 Winner</h3>
+      <p>Recognized on World Intellectual Property Day for innovative engineering solutions and hardware-software integration.</p>
+    </div>
+    <div class="glass-card">
+      <span class="badge">Cloud Telemetry</span>
+      <img class="card-img" src="assets/antigravity_cloud_deployment.jpg" alt="Cloud Deployment">
+      <h3>Live Cloud Functions Deployment</h3>
+      <p>Deploying real-time Python 3.13 backend telemetry pipelines and serverless triggers via Antigravity IDE.</p>
+    </div>
+  </div>
+</body>
+</html>
+```
+
+</details>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -142,6 +266,118 @@ const sudhanshu = {
 - **High-Fidelity Telemetry & Edge Computing:** Engineered real-time IoT water quality telemetry with local bacterial risk profiling.
 - **AI Rainwater Harvesting Prediction:** Integrated predictive machine learning models for rural water optimization and storage forecasting.
 - **Cross-Platform Client:** Responsive mobile & dashboard client synchronizing live telemetry via Firebase.
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <b>🔬 IoT Hardware Probe & Circuit Setup</b><br/>
+        <sub>Real-time water sensor conditioning</sub><br/><br/>
+        <img src="assets/iot_hardware_telemetry_setup.jpg" width="100%" alt="IoT Hardware Setup" style="border-radius: 10px;" />
+      </td>
+      <td align="center" width="33%">
+        <b>📊 Live Telemetry Dashboard</b><br/>
+        <sub>Real-time 90% GOOD quality score</sub><br/><br/>
+        <img src="assets/aqua_sentinel_live_dashboard.jpg" width="100%" alt="Aqua Sentinel Live Dashboard" style="border-radius: 10px;" />
+      </td>
+      <td align="center" width="33%">
+        <b>📈 Historical Analytics & Trends</b><br/>
+        <sub>Multi-node pH, TDS & Turbidity tracking</sub><br/><br/>
+        <img src="assets/aqua_sentinel_historical_analysis.jpg" width="100%" alt="Aqua Sentinel Historical Dashboard" style="border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<details>
+<summary><b>✨ Interactive Translucent Glassmorphic Telemetry Gallery (Live CSS Animation Code)</b></summary>
+
+<br/>
+
+> *Save and run this HTML snippet to interact with a dynamic translucent telemetry visualizer featuring neon glowing animations!*
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Aqua Sentinel Glassmorphic Telemetry</title>
+  <style>
+    body {
+      background: #0d1117;
+      font-family: 'Inter', sans-serif;
+      display: flex;
+      justify-content: center;
+      padding: 40px;
+      color: #e6edf3;
+    }
+    .telemetry-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 24px;
+      max-width: 1100px;
+      width: 100%;
+    }
+    .node-card {
+      background: rgba(22, 27, 34, 0.65);
+      border: 1px solid rgba(48, 54, 61, 0.8);
+      border-radius: 20px;
+      padding: 20px;
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      transition: all 0.4s ease;
+    }
+    .node-card:hover {
+      transform: scale(1.03);
+      border-color: #38bdf8;
+      box-shadow: 0 0 25px rgba(56, 189, 248, 0.25);
+    }
+    .node-img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 12px;
+      margin-top: 14px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .status-pulse {
+      display: inline-block;
+      width: 10px; height: 10px;
+      background: #22c55e;
+      border-radius: 50%;
+      box-shadow: 0 0 10px #22c55e;
+      animation: pulse 1.5s infinite;
+      margin-right: 8px;
+    }
+    @keyframes pulse {
+      0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.7); }
+      70% { transform: scale(1); box-shadow: 0 0 0 10px rgba(34, 197, 94, 0); }
+      100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(34, 197, 94, 0); }
+    }
+  </style>
+</head>
+<body>
+  <div class="telemetry-grid">
+    <div class="node-card">
+      <div><span class="status-pulse"></span><b>Hardware Sensor Node</b></div>
+      <img class="node-img" src="assets/iot_hardware_telemetry_setup.jpg" alt="Hardware Setup">
+    </div>
+    <div class="node-card">
+      <div><span class="status-pulse"></span><b>Live Dashboard (90% GOOD)</b></div>
+      <img class="node-img" src="assets/aqua_sentinel_live_dashboard.jpg" alt="Live Dashboard">
+    </div>
+    <div class="node-card">
+      <div><span class="status-pulse"></span><b>Historical Time-Series</b></div>
+      <img class="node-img" src="assets/aqua_sentinel_historical_analysis.jpg" alt="Historical Data">
+    </div>
+  </div>
+</body>
+</html>
+```
+
+</details>
 
 <details>
 <summary><b>📡 Interactive Edge Telemetry Simulation Code (p5.js Architecture)</b></summary>
