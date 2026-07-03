@@ -5,6 +5,8 @@
 
 <img alt="IoT & Software Engineering Banner" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="750">
 
+<br/><br/>
+
 <!-- Profile Views + Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=sudhanshu-iot93&color=06B6D4&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/sudhanshu-iot93?label=Followers&style=for-the-badge&color=blueviolet)](https://github.com/sudhanshu-iot93)
@@ -12,11 +14,15 @@
 
 </div>
 
-<div>
+---
 
 ## 🚀 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="340" alt="Sudhanshu Working on Projects & Coding" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Sudhanshu Working on Projects & Coding" />
+</div>
+
+<br/>
 
 ```javascript
 const sudhanshu = {
@@ -38,7 +44,6 @@ const sudhanshu = {
 - 📍 Based in Bhubaneswar, Odisha 🇮🇳
 
 ---
-</div>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -109,11 +114,11 @@ const sudhanshu = {
 
 ---
 
-<div align="center">
-
 ## 💼 What I Do
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="480" alt="Building & Engineering Real-World Systems" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="480" alt="Building & Engineering Real-World Systems" />
+</div>
 
 <br/>
 
@@ -122,8 +127,6 @@ const sudhanshu = {
 - 🏗️ **Full-Stack Web Platforms:** Engineering scalable, modern web applications with Next.js, React, Node.js & MongoDB
 - ⚡ **Real-Time Communication:** Integrating low-latency WebSockets and live status updates across devices
 - 🤖 **AI Integration:** Implementing smart computer vision (ANPR/facial recognition) and Gemini AI automated workflows
-
-</div>
 
 ---
 
@@ -139,6 +142,73 @@ const sudhanshu = {
 - **High-Fidelity Telemetry & Edge Computing:** Engineered real-time IoT water quality telemetry with local bacterial risk profiling.
 - **AI Rainwater Harvesting Prediction:** Integrated predictive machine learning models for rural water optimization and storage forecasting.
 - **Cross-Platform Client:** Responsive mobile & dashboard client synchronizing live telemetry via Firebase.
+
+<details>
+<summary><b>📡 Interactive Edge Telemetry Simulation Code (p5.js Architecture)</b></summary>
+
+<br/>
+
+> *Simulates live water level sensor sampling, edge microcontroller processing, and wireless packet broadcasting.*
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js"></script>
+  <style> body { display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #1a1a2e; margin: 0; } </style>
+</head>
+<body>
+  <script>
+    let angle = 0;
+    function setup() { createCanvas(500, 300); }
+    function draw() {
+      background('#1a1a2e');
+      
+      // Water Tank
+      stroke(255); noFill(); strokeWeight(2);
+      rect(50, 100, 80, 120, 5);
+      
+      // Dynamic Water Level
+      let waterHeight = map(sin(angle), -1, 1, 20, 100);
+      fill('#43bccd'); noStroke();
+      rect(52, 220 - waterHeight, 76, waterHeight, 2);
+      
+      // Data Line to Microcontroller
+      stroke('#e94560'); strokeWeight(2);
+      let dashOffset = frameCount % 10;
+      drawingContext.setLineDash([5, 5]);
+      drawingContext.lineDashOffset = -dashOffset;
+      line(130, 160, 220, 160);
+      drawingContext.setLineDash([]); // Reset
+      
+      // Microcontroller Board
+      fill('#16213e'); stroke('#0f3460');
+      rect(220, 110, 100, 100, 8);
+      fill('#e94560'); noStroke();
+      
+      // Pulsing processing LED
+      let pulse = map(sin(angle * 4), -1, 1, 100, 255);
+      fill(233, 69, 96, pulse);
+      circle(270, 160, 20);
+      
+      // WiFi Waves Broadcasting
+      stroke('#43bccd'); noFill(); strokeWeight(3);
+      let waveOffset = (frameCount % 60) / 60;
+      for (let i = 1; i <= 4; i++) {
+        let r = i * 25 + waveOffset * 25;
+        let alpha = map(i, 1, 4, 255, 0) - (waveOffset * 50);
+        stroke(67, 188, 205, max(0, alpha));
+        arc(360, 160, r, r, -PI/2.5, PI/2.5);
+      }
+      
+      angle += 0.04;
+    }
+  </script>
+</body>
+</html>
+```
+
+</details>
 
 ---
 
@@ -184,8 +254,6 @@ const sudhanshu = {
 
 ## 📫 Connect With Me
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-maharathi-75018a226)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sudhanshumaharathi)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8160308209)
@@ -193,7 +261,6 @@ const sudhanshu = {
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6247-4654)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudhanshu-iot93)
 
-</div>
 </div>
 
 ---
