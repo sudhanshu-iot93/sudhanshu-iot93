@@ -16,6 +16,8 @@
 
 ## 🚀 About Me
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="340" alt="Sudhanshu Working on Projects & Coding" />
+
 ```javascript
 const sudhanshu = {
   name:              "Sudhanshu Maharathi",
@@ -118,6 +120,59 @@ const sudhanshu = {
 - 🤖 **AI Integration:** Implementing smart computer vision (ANPR/facial recognition) and Gemini AI automated workflows
 
 </div>
+
+---
+
+## 🚀 Featured Systems & Flagship Projects
+
+> *Note: Core engine & backend repositories for enterprise/client systems are kept **Private** for IP protection. Downloadable release builds (APK/EXE) and public client releases are linked below!*
+
+### 🌊 Aqua Sentinel (Rural Water Monitoring System)
+![Status: Private Core](https://img.shields.io/badge/Core_Engine-Private_Repo-8B5CF6?style=for-the-badge&logo=github)
+[![APK Releases](https://img.shields.io/badge/APK_Releases-Public_Builds-06B6D4?style=for-the-badge&logo=android)](https://github.com/sudhanshu-iot93/aqua-sentinel-releases)
+![Tech Stack](https://img.shields.io/badge/Tech-Flutter_%7C_Dart_%7C_IoT_%7C_Edge_AI-20232A?style=for-the-badge)
+
+- **High-Fidelity Telemetry & Edge Computing:** Engineered real-time IoT water quality telemetry with local bacterial risk profiling.
+- **AI Rainwater Harvesting Prediction:** Integrated predictive machine learning models for rural water optimization and storage forecasting.
+- **Cross-Platform Client:** Responsive mobile & dashboard client synchronizing live telemetry via Firebase.
+
+---
+
+### 🩸 HemoNova (Emergency Blood Donation Platform)
+![Status: Private Core](https://img.shields.io/badge/Core_Engine-Private_Repo-8B5CF6?style=for-the-badge&logo=github)
+[![APK Releases](https://img.shields.io/badge/APK_Releases-Public_Builds-E4405F?style=for-the-badge&logo=android)](https://github.com/sudhanshu-iot93/Hemonova-Relese)
+![Tech Stack](https://img.shields.io/badge/Tech-Flutter_%7C_Firebase_%7C_Live_Tracking-20232A?style=for-the-badge)
+
+- **Real-Time Emergency Network:** Connects donors, blood banks, hospitals, and patients with instant live blood availability tracking.
+- **Low-Latency Alerts:** Geo-located emergency notification system reducing critical donor response times.
+
+---
+
+### 🎓 NovaLearn (AI-Powered EdTech Ecosystem)
+![Status: Private Enterprise](https://img.shields.io/badge/Core_Engine-Private_Repo-8B5CF6?style=for-the-badge&logo=github)
+![Tech Stack](https://img.shields.io/badge/Tech-Flutter_%7C_Gemini_AI_%7C_WebSockets-20232A?style=for-the-badge)
+
+- **All-in-One EdTech Suite:** Connects students, teachers, and parents with interactive learning and real-time collaborative whiteboards.
+- **Gemini AI Integration:** Automated AI tutoring, instant assignment grading, and smart classroom telemetry.
+- **Smart Classroom Management:** Features automated QR attendance tracking and gamified progression modules.
+
+---
+
+### 🔬 Lab Assistant (Real-Time LAN Telemetry Suite)
+![Status: Private Enterprise](https://img.shields.io/badge/Core_Engine-Private_Repo-8B5CF6?style=for-the-badge&logo=github)
+![Tech Stack](https://img.shields.io/badge/Tech-Python_%7C_WebSockets_%7C_Windows_Client-20232A?style=for-the-badge)
+
+- **LAN Lab Management System:** Powerful real-time computer lab monitoring with live teacher admin dashboard.
+- **Native Student Clients:** High-speed WebSocket telemetry across native Windows machines and BYOD web clients.
+
+---
+
+### 🛡️ Smart Campus AI Surveillance System
+![Status: Private Core](https://img.shields.io/badge/Core_Engine-Private_Repo-8B5CF6?style=for-the-badge&logo=github)
+![Tech Stack](https://img.shields.io/badge/Tech-TypeScript_%7C_Computer_Vision_%7C_OpenCV-20232A?style=for-the-badge)
+
+- **Automated Vehicle ANPR & Entry/Exit:** AI-powered number plate recognition tracking campus traffic in real time.
+- **Facial Recognition & Alert Engine:** Automated attendance tracking and instant security alerts for unauthorized access.
 
 ---
 
