@@ -53,12 +53,12 @@ const sudhanshu = {
       <td align="center" width="50%">
         <b>🥇 Innovision 2026 Award Presentation</b><br/>
         <sub>World Intellectual Property Day (26th April 2026)</sub><br/><br/>
-        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/innovision_award_2026.jpg" width="100%" alt="Innovision 2026 Award Winner" style="border-radius: 12px;" />
+        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/innovision_award_2026.svg" width="100%" alt="Innovision 2026 Award Winner" style="border-radius: 12px;" />
       </td>
       <td align="center" width="50%">
         <b>⚡ Live Cloud & Edge Deployment</b><br/>
         <sub>Python 3.13 Firebase Cloud Functions & Antigravity IDE</sub><br/><br/>
-        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/antigravity_cloud_deployment.jpg" width="100%" alt="Live Antigravity Cloud Deployment" style="border-radius: 12px;" />
+        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/antigravity_cloud_deployment.svg" width="100%" alt="Live Antigravity Cloud Deployment" style="border-radius: 12px;" />
       </td>
     </tr>
   </table>
@@ -150,13 +150,13 @@ const sudhanshu = {
   <div class="gallery-container">
     <div class="glass-card">
       <span class="badge">Innovation Award</span>
-      <img class="card-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/innovision_award_2026.jpg" alt="Innovision Award">
+      <img class="card-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/innovision_award_2026.svg" alt="Innovision Award">
       <h3>Innovision 2026 Winner</h3>
       <p>Recognized on World Intellectual Property Day for innovative engineering solutions and hardware-software integration.</p>
     </div>
     <div class="glass-card">
       <span class="badge">Cloud Telemetry</span>
-      <img class="card-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/antigravity_cloud_deployment.jpg" alt="Cloud Deployment">
+      <img class="card-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/antigravity_cloud_deployment.svg" alt="Cloud Deployment">
       <h3>Live Cloud Functions Deployment</h3>
       <p>Deploying real-time Python 3.13 backend telemetry pipelines and serverless triggers via Antigravity IDE.</p>
     </div>
@@ -275,17 +275,17 @@ const sudhanshu = {
       <td align="center" width="33%">
         <b>🔬 IoT Hardware Probe & Circuit Setup</b><br/>
         <sub>Real-time water sensor conditioning</sub><br/><br/>
-        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/iot_hardware_telemetry_setup.jpg" width="100%" alt="IoT Hardware Setup" style="border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/iot_hardware_telemetry_setup.svg" width="100%" alt="IoT Hardware Setup" style="border-radius: 10px;" />
       </td>
       <td align="center" width="33%">
         <b>📊 Live Telemetry Dashboard</b><br/>
         <sub>Real-time 90% GOOD quality score</sub><br/><br/>
-        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/aqua_sentinel_live_dashboard.jpg" width="100%" alt="Aqua Sentinel Live Dashboard" style="border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/aqua_sentinel_live_dashboard.svg" width="100%" alt="Aqua Sentinel Live Dashboard" style="border-radius: 10px;" />
       </td>
       <td align="center" width="33%">
         <b>📈 Historical Analytics & Trends</b><br/>
         <sub>Multi-node pH, TDS & Turbidity tracking</sub><br/><br/>
-        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/aqua_sentinel_historical_analysis.jpg" width="100%" alt="Aqua Sentinel Historical Dashboard" style="border-radius: 10px;" />
+        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/aqua_sentinel_historical_analysis.svg" width="100%" alt="Aqua Sentinel Historical Dashboard" style="border-radius: 10px;" />
       </td>
     </tr>
   </table>
@@ -362,15 +362,15 @@ const sudhanshu = {
   <div class="telemetry-grid">
     <div class="node-card">
       <div><span class="status-pulse"></span><b>Hardware Sensor Node</b></div>
-      <img class="node-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/iot_hardware_telemetry_setup.jpg" alt="Hardware Setup">
+      <img class="node-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/iot_hardware_telemetry_setup.svg" alt="Hardware Setup">
     </div>
     <div class="node-card">
       <div><span class="status-pulse"></span><b>Live Dashboard (90% GOOD)</b></div>
-      <img class="node-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/aqua_sentinel_live_dashboard.jpg" alt="Live Dashboard">
+      <img class="node-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/aqua_sentinel_live_dashboard.svg" alt="Live Dashboard">
     </div>
     <div class="node-card">
       <div><span class="status-pulse"></span><b>Historical Time-Series</b></div>
-      <img class="node-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/aqua_sentinel_historical_analysis.jpg" alt="Historical Data">
+      <img class="node-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/aqua_sentinel_historical_analysis.svg" alt="Historical Data">
     </div>
   </div>
 </body>
