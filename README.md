@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+there%2C+I'm+Sudhanshu+Maharathi!+%F0%9F%91%8B;IoT+%26+Embedded+Systems+Engineer+%E2%9A%99%EF%B8%8F;Full-Stack+Web+%26+Flutter+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&width=850&height=165&lines=Hi+there%2C+I'm+Sudhanshu+Maharathi!+%F0%9F%91%8B;IoT+%26+Embedded+Systems+Engineer+%E2%9A%99%EF%B8%8F;Full-Stack+Web+%26+Flutter+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img alt="IoT & Software Engineering Banner" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="750">
 
