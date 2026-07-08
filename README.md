@@ -51,14 +51,33 @@ const sudhanshu = {
   <table>
     <tr>
       <td align="center" width="50%">
+        <b>🥈 MINI-ANVESHANA 2025-26: 2nd Position Winner</b><br/>
+        <sub>Science & Engineering Fair (8th Nov 2025)</sub><br/><br/>
+        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/mini_anveshana_award_2025.svg" width="100%" alt="MINI-ANVESHANA 2nd Position Award" style="border-radius: 12px;" />
+      </td>
+      <td align="center" width="50%">
+        <b>📜 Certificate of Excellence & Silver Medal</b><br/>
+        <sub>KMBB College & Agastya International Foundation</sub><br/><br/>
+        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/mini_anveshana_certificate.svg" width="100%" alt="Certificate of Excellence & Medal" style="border-radius: 12px;" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <b>🎤 Live Jury Defense & Technical Presentation</b><br/>
+        <sub>Presenting IoT Telemetry & Future Scope Architecture</sub><br/><br/>
+        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/mini_anveshana_presentation.svg" width="100%" alt="Live Jury Defense in Mini Anveshana" style="border-radius: 12px;" />
+      </td>
+      <td align="center" width="50%">
         <b>🥇 Innovision 2026 Award Presentation</b><br/>
         <sub>World Intellectual Property Day (26th April 2026)</sub><br/><br/>
         <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/innovision_award_2026.svg" width="100%" alt="Innovision 2026 Award Winner" style="border-radius: 12px;" />
       </td>
-      <td align="center" width="50%">
+    </tr>
+    <tr>
+      <td align="center" colspan="2" width="100%">
         <b>⚡ Live Cloud & Edge Deployment</b><br/>
         <sub>Python 3.13 Firebase Cloud Functions & Antigravity IDE</sub><br/><br/>
-        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/antigravity_cloud_deployment.svg" width="100%" alt="Live Antigravity Cloud Deployment" style="border-radius: 12px;" />
+        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/antigravity_cloud_deployment.svg" width="75%" alt="Live Antigravity Cloud Deployment" style="border-radius: 12px;" />
       </td>
     </tr>
   </table>
@@ -148,6 +167,24 @@ const sudhanshu = {
 </head>
 <body>
   <div class="gallery-container">
+    <div class="glass-card">
+      <span class="badge">National Fair 2nd Prize</span>
+      <img class="card-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/mini_anveshana_award_2025.svg" alt="Mini Anveshana 2nd Prize">
+      <h3>MINI-ANVESHANA 2025-26 Winner</h3>
+      <p>Accrued 2nd position at the Science & Engineering Fair organized by KMBB College of Engineering & Technology and Agastya International Foundation.</p>
+    </div>
+    <div class="glass-card">
+      <span class="badge">Excellence Award</span>
+      <img class="card-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/mini_anveshana_certificate.svg" alt="Certificate of Excellence">
+      <h3>Certificate of Excellence</h3>
+      <p>Awarded for enthusiastic participation, commendable effort, and outstanding engineering innovation on 8th November 2025.</p>
+    </div>
+    <div class="glass-card">
+      <span class="badge">Technical Defense</span>
+      <img class="card-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/mini_anveshana_presentation.svg" alt="Jury Presentation">
+      <h3>Live Jury Presentation</h3>
+      <p>Presenting project architecture, real-time IoT telemetry, and Future Scope analysis directly to the competition jury and technical experts.</p>
+    </div>
     <div class="glass-card">
       <span class="badge">Innovation Award</span>
       <img class="card-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/innovision_award_2026.svg" alt="Innovision Award">
@@ -272,17 +309,24 @@ const sudhanshu = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="50%">
         <b>🔬 IoT Hardware Probe & Circuit Setup</b><br/>
         <sub>Real-time water sensor conditioning</sub><br/><br/>
         <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/iot_hardware_telemetry_setup.svg" width="100%" alt="IoT Hardware Setup" style="border-radius: 10px;" />
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="50%">
+        <b>🧪 Live Hydro-Testing & Calibration</b><br/>
+        <sub>Real-time sensor immersion & verification</sub><br/><br/>
+        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/aqua_sentinel_testing.svg" width="100%" alt="Aqua Sentinel Live Testing" style="border-radius: 10px;" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
         <b>📊 Live Telemetry Dashboard</b><br/>
         <sub>Real-time 90% GOOD quality score</sub><br/><br/>
         <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/aqua_sentinel_live_dashboard.svg" width="100%" alt="Aqua Sentinel Live Dashboard" style="border-radius: 10px;" />
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="50%">
         <b>📈 Historical Analytics & Trends</b><br/>
         <sub>Multi-node pH, TDS & Turbidity tracking</sub><br/><br/>
         <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/aqua_sentinel_historical_analysis.svg" width="100%" alt="Aqua Sentinel Historical Dashboard" style="border-radius: 10px;" />
@@ -365,6 +409,10 @@ const sudhanshu = {
       <img class="node-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/iot_hardware_telemetry_setup.svg" alt="Hardware Setup">
     </div>
     <div class="node-card">
+      <div><span class="status-pulse"></span><b>Live Hydro-Testing & Calibration</b></div>
+      <img class="node-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/aqua_sentinel_testing.svg" alt="Live Testing">
+    </div>
+    <div class="node-card">
       <div><span class="status-pulse"></span><b>Live Dashboard (90% GOOD)</b></div>
       <img class="node-img" src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/aqua_sentinel_live_dashboard.svg" alt="Live Dashboard">
     </div>
@@ -445,6 +493,30 @@ const sudhanshu = {
 ```
 
 </details>
+
+---
+
+### 📡 WiFi Spectrum Analyzer & Edge Firmware Engine (Arduino UNO R4 WiFi)
+![Status: Hardware Proof-of-Concept](https://img.shields.io/badge/Status-Hardware_PoC-06B6D4?style=for-the-badge&logo=arduino&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Tech-C++_%7C_Arduino_UNO_R4_WiFi_%7C_ESP32_%7C_Network_Telemetry-8B5CF6?style=for-the-badge)
+
+- **Real-Time 2.4 GHz Network Telemetry & Spectrum Analysis:** Engineered custom embedded C++ firmware for the Arduino UNO R4 WiFi microcontroller to scan, decode, and analyze nearby wireless networks in real time.
+- **Bandwidth, RSSI & Quality Profiling:** Automated real-time extraction and serial monitoring of network SSID, RSSI signal strength (dBm), channel bandwidth range, and encryption protocols.
+- **Single-Band RF Optimization:** Overcame hardware RF limitations (as the UNO R4 WiFi natively supports only single-band 2.4 GHz WiFi) by implementing efficient frequency-hopping and packet-inspection algorithms for comprehensive local spectrum mapping.
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="75%">
+        <b>⚡ Live Firmware Testing & Network Telemetry Analysis</b><br/>
+        <sub>Arduino UNO R4 WiFi Edge Processing & Real-Time Serial Monitor Output</sub><br/><br/>
+        <img src="https://raw.githubusercontent.com/sudhanshu-iot93/sudhanshu-iot93/main/arduino_r4_wifi_firmware.svg" width="100%" alt="Arduino UNO R4 WiFi Firmware Testing" style="border-radius: 12px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
